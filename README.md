@@ -1,2 +1,3 @@
-# Neuromer_Website
-Test Commit
+# Neuromer
+
+An organization of Neurology and Neurosurgery enthusiasts.
