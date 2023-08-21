@@ -12,3 +12,52 @@ footer p, h6, div{
     height: 60px;
 
 }
+@media (min-width:990px) {
+    #subscribe-img{
+        height: 400px;
+        opacity: 0.8;
+    }
+    #section-sub-1{
+        width: 100%;
+    }
+    #ss-1-1{
+        background-color: white;
+        margin: 30px;
+        padding: 50px;
+        border-radius: 10px;
+        opacity: 1;
+    }
+    #sub-input{
+        width: 500px;
+    }
+}
+@media (max-width:990px) {
+    #subscribe-img{
+        height: 10%;
+        opacity: 0.8;
+    }
+    #section-sub-1{
+        width: 100%;
+    }
+    #ss-1-1{
+        background-color: white;
+        margin: 15px;
+        padding: 10px;
+        border-radius: 10px;
+        opacity: 1;
+    }
+    #sub-input{
+        width: 40%;
+    }
+    #section-sub-1 h3{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    #sub-desc{
+        font-size: 10px;
+    }
+    .social-links{
+        display: flex; justify-content: center; align-items: center;
+    }
+
+}
